@@ -1,0 +1,9 @@
+Email:
+    smtp_server: "smtp.163.com"
+    file_path: "../report/test_report.zip"      # 测试报告地址
+    username: "urmytreasure@163.com"
+    password: "RAGXQAOVZRQCMLOR"
+    sender: 'urmytreasure@163.com'
+    receivers: 'whentomeetu@163.com'
+    from: 'liucong@163.com'
+    to: 'whentomeetu@163.com'

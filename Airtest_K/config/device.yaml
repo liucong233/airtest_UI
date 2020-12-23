@@ -1,0 +1,19 @@
+
+test_project:
+   url: "https://staging-bmw-ocr.situdata.com"
+   platformName: Android
+   deviceName: 'e66ad068'
+   appPackage: 'com.tencent.wework'  # apk包名
+hlsg3:
+   zip:
+      dir_path: "../report"    # 测试报告输入路径
+      out_filename: "../report/test_report.zip"   # 测试报告输出路径
+   report_url: '/report/html/index.html'   # 本地测试报告路径
+   version: 1.0
+   platformName: Android
+   offical:
+      deviceName: 'a7da3f26'
+      appPackage: 'com.hulai.hlsg3d.gw'  # apk包名
+   xiaomi:
+      deviceName: 'a7da3f26'
+      appPackage: 'com.hulai.hlsg3d.mi'  # apk包名
